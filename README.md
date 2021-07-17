@@ -1,9 +1,7 @@
-# Pepperdine-Fintech
-My name is Ben, I am 2O years old and I am a student. I grew up in ministry and I currently work partime at a homeless outreach organization at SWAG ( Social Work Action Group)
+# Pepperdine-Fintech	
 
-My career goals is to become a financial advisor in the crypto currency sector
 
-I chose Fintech beca
-use I believe the financial sector will revolve around technology
-This is pretty cool
+# This is the Header
+![Crypto Image.jpeg](Images/Cryto Image.jpeg)
+
 
