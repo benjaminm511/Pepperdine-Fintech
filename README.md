@@ -3,4 +3,7 @@ My name is Ben, I am 2O years old and I am a student. I grew up in ministry and 
 
 My career goals is to become a financial advisor in the crypto currency sector
 
-I chose Fintech because I believe the financial sector will revolve around technology
+I chose Fintech beca
+use I believe the financial sector will revolve around technology
+Hello
+
